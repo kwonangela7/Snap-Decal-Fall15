@@ -951,6 +951,7 @@ var sb = (function (sb) {
 			'-': 'reportDifference',
 			'*': 'reportProduct',
 			'/': 'reportQuotient',
+            '^': 'reportPower',
 			'randomFrom:to:': 'reportRandom',
 			'<': 'reportLessThan',
 			'=': 'reportEquals',
